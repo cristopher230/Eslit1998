@@ -1,0 +1,46 @@
+ With the Exclusive Lock, a data item can be read as well as written
+
+
+
+
+
+
+
+Initially, all users will be informed that the item is available, but we will need to fail two bookings... 
+To reduce overhead, its storage mechanisms and computational methods should be easy. 
+Distributed 2PL has much higher communication costs than main copy 2PL. 
+The Two Phase Locking protocol aids in the elimination of the DBMS concurrency problem.
+ Make a reservation for a specific seat.
+
+
+
+
+
+
+
+Initially, all users will be informed that the item is available, but we will have to cancel two bookings...
+ To cut down on overhead, it should have simple storage and computation mechanisms. 
+Distributed 2PL has significantly higher communication costs than main copy 2PL.
+ In a database management system, the Two Phase Locking protocol aids in the elimination of concurrency issues.
+ Make a reservation for a specific seat on a specific flight.
+
+
+
+
+
+
+
+All users will see that the item is available at first, but we need to fail two bookings... 
+To cut down on overhead, its storage mechanisms and computational methods should be simple.
+ Distributed 2PL has higher communication costs than primary copy 2PL. 
+The Two Phase Locking protocol aids in the resolution of DBMS concurrency issues.
+ Make a reservation for a particular seat.
+
+
+
+
+At first, all users will see that the item is available, but we need to reject two bookings...
+ Its storage mechanisms and computational methods should be simple to reduce overhead.
+ The contact costs of distributed 2PL are higher than those of main copy 2PL.
+ The Two Phase Locking protocol is used to solve DBMS concurrency problems.
+ Make a seat reservation for a specific time.
